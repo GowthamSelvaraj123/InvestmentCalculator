@@ -1,4 +1,4 @@
- <h1>Investment Calculator</h1>
+<div class="container"><h1>Investment Calculator</h1>
 
     <h2>Overview</h2>
     <p>The <strong>Investment Calculator</strong> is a web application that helps users calculate the future value of an investment based on an initial investment amount, an annual interest rate, and the number of years the money is invested. This project is a practical demonstration of JavaScript (or React.js) and its capabilities in building interactive and dynamic web applications.</p>
@@ -32,3 +32,4 @@
         <li>Open your browser and visit <code>http://localhost:3000</code> to see the application in action.</li>
     </ol>
     <p>Happy coding!</p>
+</div>
